@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "711699832005",
+    "firebase_url": "https://moomentz-dev-2-default-rtdb.firebaseio.com",
+    "project_id": "moomentz-dev-2",
+    "storage_bucket": "moomentz-dev-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711699832005:android:1a49167e7badf761d364ac",
+        "android_client_info": {
+          "package_name": "com.moomentz.moomentz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711699832005-7ji5o7nfhhvqt8hu2d0h6h3gbfbtv2nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaTrkug037ZDKOGU-sTLuQkU2NqoZpuMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711699832005-7ji5o7nfhhvqt8hu2d0h6h3gbfbtv2nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
